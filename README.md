@@ -2,7 +2,9 @@
 Decentralized, trustless, and anonymous crypto wills. A switch that triggers at death. User activity resets the countdown. 
 Built on the Lisk L2 Blockchain.
 
-[![Playstore](https://i.imgur.com/egBW0oo.png)](https://play.google.com/store/apps/details?id=com.evan.deadmansswitch)
+Try it out:
+
+https://www.dropbox.com/scl/fi/l9xj9sbrxmouxjsctb2hj/liskguardian.apk?rlkey=ri9pnytbl81ji8ke004bk7so1&st=gnt62si1&dl=0
 
 https://www.youtube.com/watch?v=vR62LbLSrGg
 
