@@ -2,11 +2,13 @@
 Decentralized, trustless, and anonymous crypto wills. A switch that triggers at death. User activity resets the countdown. 
 Built on the Lisk L2 Blockchain.
 
+https://www.youtube.com/watch?v=vR62LbLSrGg
+
+
 Try it out:
 
 https://www.dropbox.com/scl/fi/l9xj9sbrxmouxjsctb2hj/liskguardian.apk?rlkey=ri9pnytbl81ji8ke004bk7so1&st=gnt62si1&dl=0
 
-https://www.youtube.com/watch?v=vR62LbLSrGg
 
 # Inspiration
 The app was inspired by the need for a more secure and transparent way of managing digital assets after death. While some may opt for a lawyer to handle their will and distribute their crypto assets, there are inherent risks in entrusting private keys to a third party. In the event of a security breach, the private keys could be compromised,
