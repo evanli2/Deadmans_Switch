@@ -29,3 +29,5 @@ The app uses:
 The contracts are deployed on the Lisk L2 Testnet
 
 https://sepolia-blockscout.lisk.com/address/0xb794718E7d489fd8d40985B43a49bbe15FC1267f
+
+![alt text](https://i.imgur.com/AXwUZWJ.png)
