@@ -1,14 +1,10 @@
-# LiskGuardian
+# Deadman's Switch
 Decentralized, trustless, and anonymous crypto wills. A switch that triggers at death. User activity resets the countdown. 
 Built on the Lisk L2 Blockchain.
 
+Demo:
+
 https://www.youtube.com/watch?v=vR62LbLSrGg
-
-
-Try it out:
-
-https://www.dropbox.com/scl/fi/l9xj9sbrxmouxjsctb2hj/liskguardian.apk?rlkey=ri9pnytbl81ji8ke004bk7so1&st=gnt62si1&dl=0
-
 
 # Inspiration
 The app was inspired by the need for a more secure and transparent way of managing digital assets after death. While some may opt for a lawyer to handle their will and distribute their crypto assets, there are inherent risks in entrusting private keys to a third party. In the event of a security breach, the private keys could be compromised,
@@ -16,7 +12,7 @@ putting the entire estate at risk. Our solution is decentralized and trustless, 
 
 # Built with
 
-Lisk Guardian is developed natively on Android utilizing Java. The smart contract is written in Solidity. To ensure secure communications, messages are AES encrypted on-chain. For the generation of the decryption key, we employ the built-in mnemonic utilities of the web3j library.
+Deadman's Switch is developed natively on Android utilizing Java. The smart contract is written in Solidity. To ensure secure communications, messages are AES encrypted on-chain. For the generation of the decryption key, we employ the built-in mnemonic utilities of the web3j library.
 
 The app uses:
 
